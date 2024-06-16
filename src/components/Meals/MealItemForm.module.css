@@ -1,0 +1,16 @@
+.mealitemform {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-end;
+  background-color: #ffffff;
+  padding: 10px;
+}
+.mealitemform input {
+  max-width: 40px;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+.upper {
+  display: flex;
+}
